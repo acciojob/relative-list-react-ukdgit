@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const App = () => {
     const arr=["A","B","C"]
   return (
@@ -13,4 +14,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
